@@ -7,3 +7,7 @@ Jop Keuning 11014407
   - An analysis of the forces required to drag sheep over various surfaces
 3. DW Ziegler et al., 2005
   - The neurocognitive effects of alcohol on adolescents and college students
+
+
+
+![Graph](/fig1.png)
