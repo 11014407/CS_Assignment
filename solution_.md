@@ -9,4 +9,4 @@ Jop Keuning 11014407
   - The neurocognitive effects of alcohol on adolescents and college students
 
 
-![](/fig1.png)
+![](/fig1.png?raw=true)
